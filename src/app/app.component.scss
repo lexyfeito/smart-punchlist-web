@@ -1,0 +1,16 @@
+:host(app-root) {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+  .support-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+
+    .support-card {
+    }
+  }
+}
